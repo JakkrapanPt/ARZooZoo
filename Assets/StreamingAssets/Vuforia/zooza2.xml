@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="tigerback" size="10.500000 14.051532" />
+    <ImageTarget name="zebraback" size="10.500000 14.051532" />
+    <ImageTarget name="elephantback" size="10.500000 14.051532" />
+    <ImageTarget name="rhinoback" size="10.500000 14.051532" />
+    <ImageTarget name="giraffeback" size="10.500000 14.051532" />
+    <ImageTarget name="rhino" size="10.500000 14.051532" />
+    <ImageTarget name="tiger" size="10.500000 14.051532" />
+    <ImageTarget name="hippo" size="10.500000 14.051532" />
+    <ImageTarget name="giraffe" size="10.500000 14.051532" />
+    <ImageTarget name="zebra" size="10.500000 14.051532" />
+    <ImageTarget name="elephant" size="10.500000 14.051532" />
+  </Tracking>
+</QCARConfig>
